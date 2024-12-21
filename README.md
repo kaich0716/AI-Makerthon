@@ -15,12 +15,12 @@
 
 ### 팀 이름: **Dream Developers**
 
-| 이름          | 역할           | GitHub Profile                                   |
+| 이름          | 역할           | Gmail                                            |
 |---------------|----------------|-------------------------------------------------|
-| 김철수       | 팀장 / 백엔드  | [@kimcheolsu](https://github.com/kimcheolsu)   |
-| 이영희       | 프론트엔드     | [@leeyounghee](https://github.com/leeyounghee) |
-| 박민지       | 디자이너       | [@parkminji](https://github.com/parkminji)     |
-| 정수현       | 데이터 분석가  | [@jungsuhyeon](https://github.com/jungsuhyeon) |
+| 정창민       | 팀장 / 백엔드  | [@kimcheolsu](https://github.com/kimcheolsu)   |
+| 한샌즈       | 백엔드         | [@leeyounghee](https://github.com/leeyounghee) |
+| 김민찐       | 프론드엔드     | [@parkminji](https://github.com/parkminji)     |
+| 꿘찌원       | 조원 관리      | [@jungsuhyeon](https://github.com/jungsuhyeon) |
 
 ---
 
